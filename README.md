@@ -12,7 +12,7 @@ typora-root-url: images
 
 自定义艺术字体组件 
 
-![](\images\字体33.gif)
+![](/字体33.gif)
 
 版本 cocos creator  2.3.3 
 
@@ -30,6 +30,4 @@ chars  这个属性是自定义的字体符号 挨个输上去就行了
 
 这里继承了原来的指示器 重写了 _changedState 这个方法
 
-
-
-![](images\zhishiqi1.gif)
+![](/字体33.gif)
