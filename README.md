@@ -1,3 +1,7 @@
+---
+typora-root-url: images
+---
+
 # tab-component
 
 标签页组件
