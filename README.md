@@ -30,4 +30,4 @@ chars  这个属性是自定义的字体符号 挨个输上去就行了
 
 这里继承了原来的指示器 重写了 _changedState 这个方法
 
-![](/zhishiqi1.gif)
+![](https://github.com/uer7e67/tab-component/blob/master/images/zhishiqi1.gif)
