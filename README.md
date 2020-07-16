@@ -12,7 +12,7 @@ typora-root-url: images
 
 自定义艺术字体组件 
 
-![](/字体33.gif)
+![](https://github.com/uer7e67/tab-component/blob/master/images/%E5%AD%97%E4%BD%9333.gif)
 
 版本 cocos creator  2.3.3 
 
